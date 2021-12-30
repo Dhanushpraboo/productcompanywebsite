@@ -312,6 +312,14 @@ Publish the website in the given URL.
 
 ![PeoplePage](peoples.png)
 
+### Product Page:
+
+![ProductPage](product1.png)
+![ProductPage](product2.png)
+
+### ContactUs Page:
+![ContactUsPage](contact us.png)
+
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
