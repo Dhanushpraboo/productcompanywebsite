@@ -318,7 +318,7 @@ Publish the website in the given URL.
 ![ProductPage](product2.png)
 
 ### ContactUs Page:
-![ContactUsPage](contact us.png)
+![ContactUsPage](contactus.png)
 
 ## Result:
 
