@@ -306,11 +306,11 @@ Publish the website in the given URL.
 
 ### Home Page:
 
-![HomePage](homepage)
+![HomePage](homepage.png)
 
 ### People Page:
 
-![PeoplePage](peoples)
+![PeoplePage](peoples.png)
 
 ## Result:
 
